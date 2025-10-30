@@ -33,10 +33,10 @@ ss -tulnp | grep 19999
 
 By completing this task, you have:
 
-- ✅ Successfully **deployed and run Netdata using Docker**.  
-- ✅ Learned how to **visualize CPU, memory, disk, and network metrics** in real-time.  
-- ✅ Understood how **Netdata provides lightweight monitoring** for servers and applications.  
-- ✅ Explored **alerts, logs, and performance charts** for proactive system monitoring.  
+-  Successfully **deployed and run Netdata using Docker**.  
+-  Learned how to **visualize CPU, memory, disk, and network metrics** in real-time.  
+-  Understood how **Netdata provides lightweight monitoring** for servers and applications.  
+-  Explored **alerts, logs, and performance charts** for proactive system monitoring.  
 
 **Final Understanding:**  
 Netdata offers an easy, efficient, and powerful way to track real-time resource usage and performance metrics without heavy setup. It’s ideal for developers and DevOps engineers who need quick visibility into system health.
